@@ -50,7 +50,7 @@ surplus = uang masuk > uang keluar
 
 
 ## Flow General Accounting
-![alt text](image-1.png)
+![Logo](flow-acc.png)
 
 
 # Contoh kasus
