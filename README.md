@@ -10,11 +10,6 @@ A. Pembuatan COA / Akun
     2-Kewajiban (Liabilities): Akun yang mencatat semua kewajiban atau utang yang harus dibayar oleh entitas, seperti hutang dagang, pinjaman, dan utang pajak.
         jenis liabilitas : 
             - current liabilities: hutang dagang, hutang non dagang, hutang ekspedisi, hutang pajak (ppn keluaran)
-                contoh kasus :
-                penjualan : 3000.000 - kredit
-                ppn 330.000 - kredit
-                piutang 3.330.000 - debit
-
 
     3-Ekuitas (Equity): Akun yang mencatat kepemilikan pemilik dalam entitas, seperti modal awal/saham, laba/rugi ditahan (nilai laba tetap), laba berjalan, rugi berjalan
         case retain earning:
@@ -38,14 +33,26 @@ update saldo di akhir tahun akan menjadi saldo awal di tahun berikutnya
 
 C. jurnal - pencatatan transaksi
 
-D. neraca - untuk melihat posisi keuangan  123
+D. neraca - untuk melihat posisi keuangan  
+
+COA - 123
 (aset= hutang + modal)
 
-E. Laporan Laba rugi 4567
+ contoh kasus :
+                penjualan : 3000.000 - kredit
+                ppn 330.000 - kredit
+                piutang 3.330.000 - debit
+
+E. Laporan Laba rugi 
+
+COA - 4567
+
 pendapatan, HPP, beban
-laba kotor = pendapatan - HPP 
+
+(laba kotor = pendapatan - HPP - beban)
 
 F. Laporan Arus Kas - untuk melihat penggunaan kas (surplus/defisit)
+
 surplus = uang masuk > uang keluar
 
 
