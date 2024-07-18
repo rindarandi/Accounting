@@ -31,17 +31,24 @@ A. Pembuatan COA / Akun
 B. Inisiasi saldo awal
 update saldo di akhir tahun akan menjadi saldo awal di tahun berikutnya
 
+
 C. jurnal - pencatatan transaksi
 
+
 D. neraca - untuk melihat posisi keuangan  
+
 
 COA - 123
 (aset= hutang + modal)
 
  contoh kasus :
+ 
                 penjualan : 3000.000 - kredit
+                
                 ppn 330.000 - kredit
+                
                 piutang 3.330.000 - debit
+
 
 E. Laporan Laba rugi 
 
@@ -51,12 +58,13 @@ pendapatan, HPP, beban
 
 (laba kotor = pendapatan - HPP - beban)
 
+
 F. Laporan Arus Kas - untuk melihat penggunaan kas (surplus/defisit)
 
 surplus = uang masuk > uang keluar
 
 
-## Flow General Accounting
+# Flow General Accounting
 ![Logo](flow-transparant.png)
 
 
@@ -81,5 +89,5 @@ Berikut ini data transaksi dari suatu Usaha
 
 30 Januari: Membayar biaya listrik dan air sebesar Rp1.000.000.
 
-## Pembuatan Jurnal Umum, Neraca, dan Laporan Laba Rugi
+# Pembuatan Jurnal Umum, Neraca, dan Laporan Laba Rugi
 Link --> https://docs.google.com/spreadsheets/d/1Ds1i0akISXRE6oTd1z7z2n4KcM58okmpPPw0o8ciFYI/edit?usp=sharing
